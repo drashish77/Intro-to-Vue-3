@@ -40,7 +40,6 @@ body {
   border-radius: 50%;
 }
 
-
 .disabledButton {
   background-color: #d8d8d8;
   cursor: not-allowed;
@@ -53,7 +52,10 @@ h1 {
 h3 {
   font-size: 25px;
 }
-
+p {
+  font-size: 20px;
+  color: purple;
+}
 img {
   border: 2px solid #d8d8d8;
   width: 70%;
@@ -89,7 +91,7 @@ li {
 }
 
 .out-of-stock-img {
-  opacity:0.5
+  opacity: 0.5;
 }
 
 p {
